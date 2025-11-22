@@ -286,6 +286,10 @@ dist/
 build/
 .venv/
 venv/
+venv/
+myenv/
+venv/
+.myvenv/
 ENV/
 
 Datasetjson/
@@ -315,11 +319,35 @@ __pycache__/
 .eggs/
 .venv/
 venv/
+.venv/
+venv/
+venv/
+myenv/
+venv/
+.myvenv/
+
+.venv/
+.venv/
+.venv/
+myenv/
+venv/
+.myvenv/
 env/
 ENV/
 .cache/
+FloatChat_AI.env
+.FloatChat_AI.env
+/FloatChat_AI.env
 .ipynb_checkpoints/
 
+
+/FloatChat_AI.env
+.FloatChat_AI.env
+/FloatChat_AI.env
+
+env
+.env
+/env
 # Streamlit
 .streamlit/secrets.toml
 .streamlit/*.lock
