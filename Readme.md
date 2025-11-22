@@ -1,7 +1,5 @@
 # FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data Discovery
 
-## 🏆 Smart India Hackathon 2025 - Problem Statement 25040
-
 **Ministry of Earth Sciences (MoES) | Indian National Centre for Ocean Information Services (INCOIS)**
 
 ### Project Overview
